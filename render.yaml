@@ -3,4 +3,4 @@ services:
     name: mirage-multiping
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python ping.py
+    startCommand: python revival.py
